@@ -1,0 +1,11 @@
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.exe
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.deps.json
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.runtimeconfig.json
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.runtimeconfig.dev.json
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.dll
+C:\Users\elifu\source\repos\Sphere_EAF\bin\Debug\netcoreapp3.1\Sphere_EAF.pdb
+C:\Users\elifu\source\repos\Sphere_EAF\obj\Debug\netcoreapp3.1\Sphere_EAF.csprojAssemblyReference.cache
+C:\Users\elifu\source\repos\Sphere_EAF\obj\Debug\netcoreapp3.1\Sphere_EAF.AssemblyInfoInputs.cache
+C:\Users\elifu\source\repos\Sphere_EAF\obj\Debug\netcoreapp3.1\Sphere_EAF.AssemblyInfo.cs
+C:\Users\elifu\source\repos\Sphere_EAF\obj\Debug\netcoreapp3.1\Sphere_EAF.dll
+C:\Users\elifu\source\repos\Sphere_EAF\obj\Debug\netcoreapp3.1\Sphere_EAF.pdb
